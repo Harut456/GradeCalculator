@@ -1,0 +1,74 @@
+{
+  "course_setup" : {
+    "conv_matrix" : [
+
+{
+
+	"mark" : "A+",
+
+	"max" : 100
+,
+	"min" : 98	},
+{
+
+	"mark" : "A",
+
+	"max" : 98,
+	"min" : 94	}
+,
+{
+	"mark" : "A-",
+	"max" : 94,
+	"min" : 90	},
+{
+	"mark" : "B+",
+	"max" : 90,
+	"min" : 87	},
+{
+	"mark" : "B",
+	"max" : 87,
+	"min" : 84	},
+{
+	"mark" : "B-",
+	"max" : 84,
+	"min" : 80	},
+{
+	"mark" : "C+",
+	"max" : 80,
+	"min" : 77	},
+{
+	"mark" : "C",
+	"max" : 77,
+	"min" : 74	},
+
+{
+	"mark" : "C-",
+	"max" : 74,
+	"min" : 70	},
+{
+	"mark" : "D",
+	"max" : 70,
+	"min" : 60	},
+{
+	"mark" : "F",
+	"max" : 60,
+	"min" : 0	}
+],
+
+	"grade_breakdown" :
+{
+
+	"participation": 0.05,
+
+	"assignment1" : 0.2,
+
+	"assignment2" : 0.25,
+
+	"assignment3" : 0.25,
+
+	"assignment4" : 0.25
+    }
+
+}
+
+}
